@@ -1,0 +1,23 @@
+{
+  "name": "cashcompass",
+  "version": "1.0.0",
+  "description": "A personal finance management application",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "dependencies": {
+    "flask": "^2.2.3",
+    "flask-login": "^0.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": [
+    "finance",
+    "budget",
+    "personal-finance"
+  ],
+  "author": "RUTH",
+  "license": "MIT"
+}
